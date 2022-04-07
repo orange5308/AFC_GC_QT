@@ -1,3 +1,4 @@
+//#include "dllgc.h"
 #include "mbmslink.h"
 #include "ui_mbmslink.h"
 #include <QtCore>

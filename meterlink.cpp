@@ -1,3 +1,4 @@
+//#include "dllgc.h"
 #include "meterlink.h"
 #include "ui_meterlink.h"
 

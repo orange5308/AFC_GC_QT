@@ -1,3 +1,4 @@
+//#include "dllgc.h"
 #include "emslink.h"
 #include "ui_emslink.h"
 #include "dllSysTest.h"

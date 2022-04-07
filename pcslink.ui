@@ -395,14 +395,14 @@
       </widget>
      </item>
      <item row="4" column="5">
-      <widget class="QLineEdit" name="lineEdit_49">
+      <widget class="QLineEdit" name="lineEdit_52">
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
       </widget>
      </item>
      <item row="5" column="5">
-      <widget class="QLineEdit" name="lineEdit_50">
+      <widget class="QLineEdit" name="lineEdit_53">
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -752,13 +752,6 @@
        </property>
       </widget>
      </item>
-     <item row="3" column="13">
-      <widget class="QLineEdit" name="lineEdit_48">
-       <property name="alignment">
-        <set>Qt::AlignCenter</set>
-       </property>
-      </widget>
-     </item>
      <item row="3" column="6">
       <widget class="QLabel" name="label_51">
        <property name="text">
@@ -781,21 +774,28 @@
       </widget>
      </item>
      <item row="3" column="7">
-      <widget class="QLineEdit" name="lineEdit_51">
+      <widget class="QLineEdit" name="lineEdit_48">
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
       </widget>
      </item>
      <item row="3" column="9">
-      <widget class="QLineEdit" name="lineEdit_52">
+      <widget class="QLineEdit" name="lineEdit_49">
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
       </widget>
      </item>
      <item row="3" column="11">
-      <widget class="QLineEdit" name="lineEdit_53">
+      <widget class="QLineEdit" name="lineEdit_50">
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item row="3" column="13">
+      <widget class="QLineEdit" name="lineEdit_51">
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>

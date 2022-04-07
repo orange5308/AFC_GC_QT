@@ -1,3 +1,4 @@
+#include "dllgc.h"
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
 #include "emslink.h"
@@ -5,9 +6,7 @@
 //#include "pcslink_pe.h"
 #include "mbmslink.h"
 #include "meterlink.h"
-#include <dllgc.h>
 #include <libconfig.h++>
-
 bool remote_flag=false;
 bool running_button_flag=false;
 bool running_dont_start_flag=true;

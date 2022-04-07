@@ -1,3 +1,4 @@
+//#include "dllgc.h"
 #include "pcslink.h"
 #include "ui_pcslink.h"
 #include <QtCore>
@@ -77,11 +78,11 @@ void PCSLink::PCSdataupdate_slots(double *pcsdata)
     ui->lineEdit_46->setText(QString::number(pcsdata[41],10,0));
     ui->lineEdit_47->setText(QString::number(pcsdata[42],10,0));
     ui->lineEdit_48->setText(QString::number(pcsdata[43],10,0));
-    ui->lineEdit_49->setText(QString::number(pcsdata[44],10,2));
-    ui->lineEdit_50->setText(QString::number(pcsdata[45],10,2));
+    ui->lineEdit_49->setText(QString::number(pcsdata[44],10,0));
+    ui->lineEdit_50->setText(QString::number(pcsdata[45],10,0));
     ui->lineEdit_51->setText(QString::number(pcsdata[46],10,0));
-    ui->lineEdit_52->setText(QString::number(pcsdata[47],10,0));
-    ui->lineEdit_53->setText(QString::number(pcsdata[48],10,0));
+    ui->lineEdit_52->setText(QString::number(pcsdata[47],10,2));
+    ui->lineEdit_53->setText(QString::number(pcsdata[48],10,2));
 }
 
 void PCSLink::on_pushButton_pressed()

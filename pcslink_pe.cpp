@@ -1,3 +1,4 @@
+//#include "dllgc.h"
 #include "pcslink_pe.h"
 #include "ui_pcslink_pe.h"
 #include <QtCore>

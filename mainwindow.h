@@ -4,7 +4,7 @@
 #include <QMainWindow>
 #include "dllSysTest.h"
 #include <QThread>
-#include <dllgc.h>
+#include "dllgc.h"
 #include "emslink.h"
 #include "pcslink.h"
 //#include "pcslink_pe.h"
